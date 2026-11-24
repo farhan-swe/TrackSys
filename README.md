@@ -4,7 +4,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/khdxsohee/tracking-system?style=for-the-badge&logo=github)](https://github.com/khdxsohee/tracking-system/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/farhan-swe/tracking-system?style=for-the-badge&logo=github)](https://github.com/farhan-swe/tracking-system/commits/main)
 
 A robust and feature-rich **Order Tracking System** built with PHP and MySQL, designed to provide a seamless experience for both administrators and customers. This system allows admins to manage orders efficiently, while customers can easily track their shipment status in real-time.
 
@@ -82,7 +82,7 @@ tracking-system/
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/khdxsohee/TrackSys.git
+    git clone https://github.com/farhan-swe/TrackSys.git
     ```
 
 3.  **Database Setup:**
@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[khdxsohee](https://github.com/khdxsohee)**
+Made with ❤️ by **[farhan-swe](https://github.com/farhan-swe)**
 
 ---
 
